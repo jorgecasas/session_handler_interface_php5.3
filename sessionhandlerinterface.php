@@ -6,10 +6,8 @@
  * 
  * @link    http://php.net/manual/en/class.sessionhandlerinterface.php
  * 
- * @author  Simon Asika <asika32764@gmail.com>
  */
-interface SessionHandlerInterface
-{
+interface SessionHandlerInterface {
 	/**
 	 * Close the session
 	 *
